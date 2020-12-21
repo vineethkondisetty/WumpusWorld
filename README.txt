@@ -1,8 +1,4 @@
-
-    CSE 5360- Artificial Intellgence-I							
-    Name: Venkata Naga Satya Sai Vineeth Kondisetty					      
-    Student ID: 1001772021								
-    Assignment 3: Wumpus World Problem (Propositional Logic)	
+Wumpus World Problem (Propositional Logic)	
     Programming Language Used : JAVA
 
 Code Structure: 2 Classes
